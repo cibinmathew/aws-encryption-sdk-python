@@ -3,4 +3,4 @@
     description: sorts entries in requirements.txt.
     entry: requirements-txt-fixer
     language: python
-    files: dev_requirements/.*est-requirements.*\.txt$
+    files: dev_requirements/.*est-requirements\.txt$
